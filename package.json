@@ -52,7 +52,7 @@
   "dependencies": {
     "animate.css": "^3.7.2",
     "core-js": "^3.1.4",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.7.7",
     "nonblockjs": "^1.0.8",
     "pnotify": "^4.0.0"
   }
